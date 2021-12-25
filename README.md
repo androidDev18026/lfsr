@@ -2,7 +2,7 @@
 
 ![LFSR example](https://www.researchgate.net/profile/Muhammad-Osama-2/publication/292130031/figure/fig5/AS:668783521828901@1536461825862/An-example-of-a-7-bit-LFSR.ppm)
 
-**Linear Feedback Shift Generator**
+## **Linear Feedback Shift Generator**
 
 ---
 
